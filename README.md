@@ -83,6 +83,9 @@ Consolidates contact information for a user.
 
 ## ☁️ Deployment
 
+### Live Deployment
+The service is live at: [https://bite-speed-assignment-rouge.vercel.app/](https://bite-speed-assignment-rouge.vercel.app/)
+
 ### Deploy to Vercel
 1. Install Vercel CLI: `npm i -g vercel`
 2. Run `vercel` in the project root.
